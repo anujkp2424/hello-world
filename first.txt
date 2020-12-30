@@ -5,3 +5,5 @@ Welcome to text file
 edit
 
 thqq 
+
+version 1 done
